@@ -27,7 +27,7 @@ print(a[middle - 1:middle + 1])
 print(a[1:])
 
 # Output every element except the last one: [2, 4, 1, 7, 9]
-print(a[:-2])
+print(a[:-1])
 
 # For string s...
 
